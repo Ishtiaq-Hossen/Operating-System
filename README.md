@@ -12,7 +12,7 @@
 
 **Section:** 02
 
-**University** Independent University Bangladesh
+**University:** Independent University Bangladesh
 
 # Project A
 
